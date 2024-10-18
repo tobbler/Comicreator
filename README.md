@@ -1,2 +1,2 @@
 # Comicreator
-#tested again
+#tested 15:50
